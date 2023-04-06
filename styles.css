@@ -131,6 +131,7 @@ button:hover {
     justify-content: center;
     place-items: center;
     overflow: hidden;
+    padding: 8em;
   }
   /* min-height: 100%; */
 
@@ -149,10 +150,9 @@ button:hover {
     width: 231px;
     height: 42px;
   }
-  .description {
-    padding: 12px 14px;
+  /* .description {
     padding: 61px 118px 0 28px;
-  }
+  } */
   .image > img {
     width: 100%;
     padding: 10px;
